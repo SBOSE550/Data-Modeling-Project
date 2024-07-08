@@ -56,5 +56,5 @@ By **cleaning the dataset and designing a relational database**, the project add
 ## Project Structure
 - **data_cleaning_modeling.ipynb:** Jupyter Notebook containing the entire data cleaning and database creation process.
 - **retail_data.csv:** The original dataset used in this project.
-- **retail_data.db:** The resulting SQLite database file.
+- **retail_data.db:** [The resulting SQLite database file](https://github.com/SBOSE550/Data-Modeling-Project/releases/tag/v1.0).
 - **schema_diagram.png:** The schema diagram illustrating the relational database design.
